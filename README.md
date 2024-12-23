@@ -7,4 +7,4 @@ You can create your own graph using provided methods and see if backtracking is 
 I have left myself, (and the people who might be interested in contributing to this problem), a set of ideas I had, which can be tried out. Who knows, maybe an optimization process can be found after all.
 
 ### Acknowledgments
-I would like to thank my computability project group for encouraging me and supporting me in this project.
+I would like to thank my Computability project group for encouraging me and supporting this project. Through our brainstorming sessions and discussions, I was able to look at the problem from different perspectives.
